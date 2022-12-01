@@ -12,6 +12,10 @@ defineProps({
     <div class="iamge">
         <img :src="image">
     </div>
+    <div class="lowwer-container">
+        <p>{{name}}</p>
+        <p>{{price}}</p>
+    </div>
   </div>
 </template>
 
