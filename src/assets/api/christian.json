@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "cross",
+    "img": "../assets/cross.jpg",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "name": "chapelet",
+    "img": "",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "name": "bible",
+    "img": "",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "name": "cierge",
+    "img": "",
+    "price": 10
+  },
+  {
+    "id": 5,
+    "name": "statue",
+    "img": "",
+    "price": 25
+  },
+  {
+    "id": 6,
+    "name": "book",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 7,
+    "name": "cross",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 8,
+    "name": "bible",
+    "img": "",
+    "price": 30
+  },
+  {
+    "id": 9,
+    "name": "cierge",
+    "img": "",
+    "price": 10
+  },
+  {
+    "id": 10,
+    "name": "statue",
+    "img": "",
+    "price": 25
+  },
+  {
+    "id": 11,
+    "name": "book",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 12,
+    "name": "cross",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 13,
+    "name": "bible",
+    "img": "",
+    "price": 30
+  },
+  {
+    "id": 14,
+    "name": "cierge",
+    "img": "",
+    "price": 10
+  },
+  {
+    "id": 15,
+    "name": "statue",
+    "img": "",
+    "price": 25
+  },
+  {
+    "id": 16,
+    "name": "book",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 17,
+    "name": "cross",
+    "img": "",
+    "price": 20
+  },
+  {
+    "id": 18,
+    "name": "bible",
+    "img": "",
+    "price": 30
+  }
+]
